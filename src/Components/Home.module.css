@@ -1,0 +1,9 @@
+.bg
+{
+    background-image:url("E:\Myapp\courseappgui\src\gp.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:top;
+    min-height:50vh;
+    padding-top : 4rem;      
+}
